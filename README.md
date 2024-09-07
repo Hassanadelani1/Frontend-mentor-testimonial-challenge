@@ -1,0 +1,1 @@
+This is a frontend mentor challenge where I built a responsive webpage of testimonials using CSS Grid.
